@@ -16,11 +16,11 @@ download the jsx, place in
 ### Click Windows - velo_to_blender
 
 select a layer, Click "Add Velocity" to add the script, and use it like this:
-<youtube link>
+https://www.youtube.com/watch?v=S7fnPzafQ8Q&t=105s
 
 select the layer, Click "Output Result", choise a path to save the *.velo File.
 
-## How to use the *.velo file
+## How to use the velo file
 https://github.com/Airyzz/Velocity3D?tab=readme-ov-file#how-to-use
 
 
